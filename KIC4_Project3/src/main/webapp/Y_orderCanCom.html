@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>주문 취소 완료</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+</head>
+<body>
+  <!-- 주문 취소 완료 section -->
+  <section>
+    <div class="mb-6 bg-blue-500 text-white font-bold text-center md:text-left md:pl-20 md:text-2xl content-center h-16 sm:h-24 grid text-xl">
+      <div >
+        주문 취소가 완료되었습니다
+      </div>
+    </div>
+    
+    <!-- 주문 취소표 start-->
+    <div class="w-full px-8 table">
+      <div class="border-y border-gray-700" >
+        <div class="text-center grid grid-cols-9 align-middle">
+          <div class="hidden md:table-cell align-middle col-span-1 border">주문번호</div>
+          <div class="hidden md:table-cell align-middle col-span-3 border">취소상품</div>
+          <div class="hidden md:table-cell align-middle col-span-1 border">수량</div>
+          <div class="hidden md:table-cell align-middle col-span-1 border">상품 가격</div>
+          <div class="hidden md:table-cell align-middle col-span-1 border">구매 금액</div>
+          <div class="hidden md:table-cell align-middle col-span-1 border">배송비</div>
+          <div class="hidden md:table-cell align-middle col-span-1 border">취소 금액</div>
+        </div>
+        <div class="text-center grid-cols-3 grid md:grid-cols-9">
+          <div class="col-span-3 md:col-span-1 grid place-items-center border md:order-1">
+            1234
+          </div>
+          <div class="col-span-3 md:col-span-3 border flex items-center md:order-3">
+            <img class="w-24 mx-2 my-2 flex-auto" src="./img/sool.jpg">
+            <span class="mx-2 my-2 flex-auto grid-flow-dense">
+              [500ml] 병영소주
+            </span>
+          </div>
+          <div class="grid place-items-center border md:order-5 grid-flow-dense">
+            <span>
+              <span span class="md:hidden">상품 가격 : </span>
+              <span>22,000</span>
+            </span>
+          </div>
+          <div class="grid place-items-center md:col-span-1 border md:order-4 grid-flow-dense">
+            <span>
+              <span span class="md:hidden">수량 : </span>
+              <span>1</span>
+            </span>
+          </div>
+          <div class="grid place-items-center border md:order-6">
+            <span>
+              <span span class="md:hidden">구매 금액 : </span>
+              <span>22,000</span>
+            </span>
+          </div>
+          <div class="col-span-1 grid place-items-center border md:order-7">
+            <span>
+              <span span class="md:hidden">배송비 : </span>
+              <span>3,000</span>
+            </span>
+          </div>
+          <div class="col-span-2 md:col-span-1 grid place-items-center border md:order-8">
+            <span>
+              <span span class="font-bold md:hidden">총 결제 금액 : </span>
+              <span span class="font-bold md:font-normal">25,000</span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 주문 취소표 end-->
+    
+    <div class="text-center pt-6">
+      <a href="./Y_myPage.shop" class="text-primary text-blue-600 hover:text-blue-400 hover:underline">
+        마이페이지로 이동>>
+      </a>
+    </div>
+  </section>
+  <!-- 주문 취소 section -->
+</body>
+</html>
