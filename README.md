@@ -25,13 +25,13 @@ MVC2 구조로 구현한 전통주 판매 쇼핑몰입니다. Tailwind CSS를 �
 
 ## 💡 개발 내용
 **밸로그 링크** <br>
-[로그인/회원가입)(https://velog.io/@ghdrn221/%EC%A3%BC%EB%A5%98-%ED%8C%90%EB%A7%A4-%EC%87%BC%ED%95%91%EB%AA%B0)<br>
+[로그인/회원가입](https://velog.io/@ghdrn221/%EC%A3%BC%EB%A5%98-%ED%8C%90%EB%A7%A4-%EC%87%BC%ED%95%91%EB%AA%B0)<br>
 [id/pwd 찾기1](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A3%BC%EB%A5%98-%ED%8C%90%EB%A7%A4-%EC%87%BC%ED%95%91%EB%AA%B02)<br>
 [id/pwd 찾기2](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8idpwd-%EC%B0%BE%EA%B8%B02)<br>
-[zpcode el(막혔던 부분)](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8zpcode-el-DB-%ED%85%8C%EC%9D%B4%EB%B8%94)<br>
+[zpcode el](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8zpcode-el-DB-%ED%85%8C%EC%9D%B4%EB%B8%94) (막혔던 부분)<br> 
 [id/pwd 찾기3](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8idpwd-%EC%B0%BE%EA%B8%B03)<br>
 [id/pwd 찾기4](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8idpwd-%EC%B0%BE%EA%B8%B04)<br>
-[소셜로그인(삽질)](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)<br>
+[소셜로그인](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8) (막혔던 부분2)<br>
 [소셜로그인2](https://velog.io/@ghdrn221/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B82)<br>
 [메인페이지](https://velog.io/@ghdrn221/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80)<br>
 
